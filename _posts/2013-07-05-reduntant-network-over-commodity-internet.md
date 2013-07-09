@@ -18,4 +18,4 @@ title: Using commodity internet links to build reduntant, fault tolerant network
    * http://en.wikipedia.org/wiki/First_Hop_Redundancy_Protocols
    * http://en.wikipedia.org/wiki/Common_Address_Redundancy_Protocol
 
-<img src="../images/diverse-network-bonding.png" />
+<img src="/images/diverse-network-bonding.png" />
